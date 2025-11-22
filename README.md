@@ -30,12 +30,23 @@
 
 ```bash
 tf-learning/
-├── 00_Environments/     # 환경 설정 및 GPU 테스트 코드
-├── 01_Beginner/         # 초보자용 튜토리얼 (Keras)
-├── 02_Advanced/         # 전문가용 튜토리얼 (GradientTape 등)
-├── 03_Guide/            # TF 가이드 (Tensor, Variable, Autodiff)
+├── 01_Guide/            # [이론] TensorFlow 공식 가이드 실습
+│   ├── 01_Basics/       # 텐서, 변수, 자동미분 (Deep Learning 기초)
+│   ├── 02_Keras_Core/   # 층(Layer), 모델링, 학습 루프
+│   ├── 03_Data_Pipeline/# tf.data (고성능 데이터 파이프라인)
+│   ├── 04_Performance/  # GPU 가속 및 최적화
+│   └── 05_Save_Load/    # 모델 저장 및 불러오기
+│
+├── 02_Tutorials/        # [실전] 분야별 튜토리얼 프로젝트
+│   ├── 00_Quickstart/   # 빠른 시작 (Hello World)
+│   ├── 01_ML_Basics/    # ML 기초 (회귀, 기본 분류)
+│   ├── 02_Vision/       # 컴퓨터 비전 (CNN, ResNet)
+│   ├── 03_NLP/          # 자연어 처리 (Transformer, BERT)
+│   ├── 04_Generative/   # 생성형 모델 (GAN, VAE)
+│   └── 05_Structured/   # 정형 데이터 (CSV, Pandas)
+│
 └── README.md
-```
+'''
 
 <br>
 
