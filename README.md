@@ -46,7 +46,7 @@ tf-learning/
 │   └── 05_Structured/   # 정형 데이터 (CSV, Pandas)
 │
 └── README.md
-'''
+```
 
 <br>
 
@@ -61,4 +61,4 @@ tf-learning/
 <br>
 
 ---
-_Powered by TensorFlow 2.16+
+_Powered by TensorFlow 2.16+_
