@@ -6,8 +6,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-12.9-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-이 레포지토리는 **Deep Learning Frameworks (PyTorch & TensorFlow)** 의 이론과 실습 코드를 정리한 아카이브입니다.
-* **PyTorch:** [혁펜하임](https://youtube.com/playlist?list=PL_iJu012NOxdhFmM2aw6bwpZTMFdsPxws&si=5OaIx4Q_GKEy7V-F) 인스톨! 파이토치 기반의 기초 및 심화 구현
+이 레포지토리는 **Deep Learning Frameworks (PyTorch & TensorFlow)** 의 실습 코드를 정리한 아카이브입니다.
+* **PyTorch:** [혁펜하임](https://youtube.com/playlist?list=PL_iJu012NOxdhFmM2aw6bwpZTMFdsPxws&si=5OaIx4Q_GKEy7V-F) 인스톨! 파이토치를 참고해서 구현
 * **TensorFlow:** 공식 가이드 및 튜토리얼 기반 실습
 <br>
 
@@ -46,7 +46,8 @@ deep-learning-study/
 
 <br>
 
-## 📝 Study Log
+## 📝 Pytorch Study Log
+
 
 | Chapter | Topic | Status | Note |
 | :---: | :--- | :--- | :---: |
